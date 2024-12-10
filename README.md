@@ -66,4 +66,4 @@ To quickly set up and run the project, follow these steps:
 - **GPT-2 Model**: Pre-trained model from Hugging Face.
 - **Poetry Dataset by Merve**: The dataset used to fine-tune the model.
 
-Feel free to explore and modify the project as needed!
+Happy Coding!🪄
