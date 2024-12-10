@@ -15,7 +15,7 @@ Dataset details:
 - **Content**: Poems with different themes such as nature, love, and introspection.
 
 ## Files
-- `poem_generator.ipynb`: Jupyter Notebook containing the code for generating poems.
+- `Poem-Generator.ipynb`: Jupyter Notebook containing the code for generating poems.
 - Model hosted on Hugging Face: [mehwish67/poem_Generator](https://huggingface.co/mehwish67/poem_Generator).
 
 ## How to Run
@@ -25,7 +25,7 @@ To quickly set up and run the project, follow these steps:
     ```bash
     git clone https://github.com/amandk1991/Poem-Generator.git
     ```
-2. Open the `poem_generator.ipynb` file in **Google Colab** or **Jupyter Notebook**.
+2. Open the `Poem-Generator.ipynb` file in **Google Colab** or **Jupyter Notebook**.
 
 3. In the first cell of the notebook, install the required dependencies:
     ```python
@@ -58,7 +58,7 @@ To quickly set up and run the project, follow these steps:
     ```
 
 6. Optionally, you can open the notebook directly in **Google Colab**:
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Poem_Generator_Project/blob/main/poem_generator.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amandk1991/Poem-Generator/blob/main/Poem-Generator.ipynb)
 
 
 
